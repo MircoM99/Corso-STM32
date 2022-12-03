@@ -10,3 +10,6 @@ Lezioni:
 
 # Lezione 1
 Nella prima lezione viene presentato l'ambiente di programmazionione e si eseguirà passo passo la programmazione del microcontrollore per poter accendere e spegnere un LED ogni 1s tramite un Timer interno.
+
+# Lezione 2
+Nella seconda lezione viene presentato un software per utilizzare l'ADC. In particolare l'ADC dovrà convertire i dati presenti su 3 canali in modo temporizzato da un Timer. Inoltre i dati vengono trasferiti in memoria tramite l'uso della DMA che è uno strumento molto potente che permette lo scambio di dati tra periferiche in modo efficiente. 
