@@ -13,3 +13,7 @@ Nella prima lezione viene presentato l'ambiente di programmazionione e si esegui
 
 # Lezione 2
 Nella seconda lezione viene presentato un software per utilizzare l'ADC. In particolare l'ADC dovrà convertire i dati presenti su 3 canali in modo temporizzato da un Timer. Inoltre i dati vengono trasferiti in memoria tramite l'uso della DMA che è uno strumento molto potente che permette lo scambio di dati tra periferiche in modo efficiente. 
+
+# Lezione 3
+Nella terza lezione vengono presentate delle tecniche di debug molto potenti per risolvere diversi problemi come: Monitor seriale, lettura SFR, live expression. Il codice sorgente non è importate perchè queste tecniche di applicano a qualsiasi contesto. 
+  ### NOTA: Nel video mi sono dimenticato di specificare che per utilizzare la trasmissione seriale in modalità interrupt è necessario abilitare l'interrupt     corrispodnente nell'interfaccia grafica sulla periferica USART nella sezione NVIC.
